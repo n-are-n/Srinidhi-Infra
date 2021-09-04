@@ -1,0 +1,74 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    margin: 0;
+}
+.section{
+    width: 60%;
+    margin: 0 auto;
+}
+.rectangle{
+    background-color: white;
+    height: .625rem;
+    width: 7.5rem;
+}
+p{
+    line-height: 1.6;
+}
+h1{
+    font-size: 4.5rem;
+    font-weight: bold;
+}
+h2{
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+h4{
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    padding-top: 2.188rem;
+}
+.serif{
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: serif;
+}
+#guaranteed{
+    background-color: black;
+    color: white;
+}
+#contact{
+    background-color: #858e99;
+    color: white;
+}
+address{
+    margin-top: 1.25rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+.row{
+    width: 50%;
+}
+#contact_div{
+    display: flex;
+}
+#guaranteed_div{
+    display: flex;
+}
+.image{
+    margin-top: 5rem;
+    margin-left: 2rem;
+    background-color: white;
+    width: 40rem;
+    height: 40rem;
+}
+ul{
+    padding-top: 1.25rem;
+    padding-bottom: 2.188rem;
+}
+li{
+    padding-bottom: 1.875rem;
+    line-height: 1.6;
+}
