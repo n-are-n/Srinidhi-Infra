@@ -3,6 +3,9 @@
   url("../Images/Pic7.jpg");
   background-position: 50% 50%;
 }
+.u-head{
+  color: #999 !important;
+}
 .u-section-1 .u-sheet-1 {
   min-height: 781px;
 }
@@ -6028,7 +6031,7 @@ ul.u-text li:last-child {
   display: block;
   vertical-align: middle;
   background-size: cover;
-  background-position: 50% 20%;
+  background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 img.u-image,
@@ -17414,11 +17417,6 @@ h4,
 h5,
 h6 {
   font-family: Roboto,sans-serif;
-}
-.u-overlap.u-overlap-transparent .u-header,
-.u-image,
-.u-gradient {
-  color: #fff;
 }
 .u-body {
   color: #111111;
