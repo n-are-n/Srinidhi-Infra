@@ -1,9 +1,7 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("../Images/Pic1.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
+  url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/3ca9eecbff10507f8e695277/pexelsphoto1758672.jpg");
   background-position: 50% 50%;
-}
-.u-head{
-  color: #999 !important;
 }
 .u-section-1 .u-sheet-1 {
   min-height: 781px;
@@ -23,8 +21,8 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 176px;
-  height: 94px;
+  width: 200px;
+  height: 200px;
   margin: 20px auto 25px 0;
 }
 
@@ -389,7 +387,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 510px;
-  background-image: url("../Images/Pic2.png");
+  background-image: url("../Images/Pic1.jpg");
   background-position: 50% 50%;
 }
 
@@ -1077,10 +1075,9 @@
 }
 
 .u-section-6 .u-image-1 {
-  background-image: url("../Images/Pic3.png");
+  background-image: url("../Images/Pic2.jpg");
   min-height: 549px;
-  background-size: auto;
-  background-position: 60% 40%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-1 {
@@ -1422,9 +1419,8 @@
 
 .u-section-7 .u-image-1 {
   min-height: 504px;
-  background-image: url("../Images/Pic3.png");
-  background-size: auto;
-  background-position: 10% 70%;
+  background-image: url("../Images/Pic3.jpg");
+  background-position: 50% 29.49%;
 }
 
 .u-section-7 .u-container-layout-2 {
@@ -17422,7 +17418,7 @@ h6 {
 .u-overlap.u-overlap-transparent .u-header,
 .u-image,
 .u-gradient {
-  color: #111111;
+  color: #fff;
 }
 .u-body {
   color: #111111;
