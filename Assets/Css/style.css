@@ -1,6 +1,6 @@
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
-  url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/3ca9eecbff10507f8e695277/pexelsphoto1758672.jpg");
+  url("../Images/Pic.jpg");
   background-position: 50% 50%;
 }
 .u-section-1 .u-sheet-1 {
@@ -21,10 +21,9 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   margin: 20px auto 25px 0;
-  filter: saturate(10);
 }
 
 .u-section-1 .u-layout-cell-2 {
