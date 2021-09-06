@@ -21,9 +21,10 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   margin: 20px auto 25px 0;
+  filter: saturate(10);
 }
 
 .u-section-1 .u-layout-cell-2 {
